@@ -3,11 +3,13 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Heitor Lima Moreira
+Matricula: 885531
 
 ## Tela de inspeção com navegador
 
+![Print da tela de network](./networkprint.png)
 
 ## Tela de projeto no Replit
 
+![Print dela hello world](./helloworldprint.png)
